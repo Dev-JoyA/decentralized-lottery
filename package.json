@@ -1,0 +1,15 @@
+{
+  "name": "decentralized-lottery",
+  "version": "1.0.0",
+  "description": "A dApp for lottery ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joy A",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.26.1"
+  }
+}
